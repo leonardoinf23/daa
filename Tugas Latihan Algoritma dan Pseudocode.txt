@@ -1,0 +1,72 @@
+1. Mencari Nilai KPK (Kelipatan Persekutuan Terkecil) dari 3 dan 4
+    Algoritma: Langkah 1: Temukan faktor terbesar yang sama antara dua angka (FPB).
+               Langkah 2: Hitung KPK dengan rumus:
+    Pseudecode: 1. Mulai
+                2. Input a = 3, b = 4
+                3. Tentukan FPB dari a dan b menggunakan algoritma Euclid:
+                4. Hitung KPK: (a * b) / FPB
+                5. Output hasil KPK
+                6. Selesai
+
+2. Menukar Posisi Dua Variabel (Manggis dan Pisang di Piring)
+   Algoritma: Langkah 1: Gunakan piring ketiga sebagai tempat sementara.
+              Langkah 2: Pindahkan manggis dari piring 1 ke piring 3.
+              Langkah 3: Pindahkan pisang dari piring 2 ke piring 1.
+              Langkah 4: Pindahkan manggis dari piring 3 ke piring 2.
+Pseudecode: 1. Mulai
+            2. Input x = "Manggis" (piring 1), y = "Pisang" (piring 2)
+            4. Set x = y
+            5. Set y = x
+            6. Output nilai x dan y setelah ditukar
+            7. Selesai
+
+3. Menghitung Luas Segitiga (Alas = 25, Tinggi = 30)
+  Algoritma: Langkah 1: Diketahui alas = 25, tinggi = 30.
+            Langkah 2: Masukkan nilai alas dan tinggi
+            Langkah 3: Hitung luas segitiga dengan rumus alas*tinggi/2
+            Langkah 4: Tampilkan hasil perhitnugan
+
+  Pseudecode: 1. Input alas = 25, tinggi = 30
+              2. Hitung luas segitiga: Luas = (alas * tinggi) / 2
+              3. Output hasil luas
+              4. Selesai
+
+4. Menghitung Luas Jajar Genjang (Panjang = 5, Tinggi = 3)
+   Algoritma: langkah 1: Diketahui panjang= 5 dan tinggi= 3
+              langkah 2: Hitung luas jajar genjang dengan rumus panjang*tinggi
+              langkah 3: Cetak hasil perhitungan luas jajar genjang
+
+  Pseudecode: 1. Mulai
+              2. Input panjang = 5, tinggi = 3
+              3. Hitung luas jajar genjang: Luas = panjang * tinggi
+              4. Output hasil luas
+              5. Selesai
+5. Menghitung Volume Tabung (Jari-jari = 3, Tinggi = 5)
+Algoritma: Langakah 1: Masukkan jari" tabung= 3 dan tinggi= 5
+           langkah 2 : Hitung volume tabung menggunakan rumus Volume = π * (jari-jari^2) * tinggi
+           langkah 3: Cetak hasil perhitungan volume tabung
+
+Pseudecode: 1. Input jari-jari = 3, tinggi = 5
+            2. Hitung volume tabung: Volume = π * (jari-jari^2) * tinggi
+            3. Output hasil volume
+
+6. Menghitung Volume Kerucut (Diameter = 5, Tinggi = 4)
+Algoritma: langkah 1: Masukkan diameter dan tinggi kerucut
+          langkah 2: Hitung jari" kerucut menggunakan rumus diameter/2
+          langkah 3: Hitung volume kerucut menggunakan rumus (1/3) * π * (jari-jari^2) * tinggi
+          langkah 4: Cetak hasil perhitungan volume kerucut
+
+Pseudecode: 
+            1. Input diameter = 5, tinggi = 4
+            2. Hitung jari-jari: jari-jari = diameter / 2
+            3. Hitung volume kerucut: Volume = (1/3) * π * (jari-jari^2) * tinggi
+            4. Output hasil volume
+
+
+7. LINK GITHUB: https://github.com/leonardoinf23
+8. LINK KAAGLE: https://www.kaggle.com/leonardoinf23
+
+
+
+
+
